@@ -1,1 +1,1 @@
-# Project-on-KNN-bangalore-house-price-prediction
+# Project-on-KNN-Bangalore-House-Price-Prediction
